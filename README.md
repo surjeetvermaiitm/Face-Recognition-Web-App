@@ -4,3 +4,5 @@
 - Then run pip install -r requirement.txt
 - Then run python main.py
 - The app will open in http://localhost:8000/
+- ![image](https://user-images.githubusercontent.com/39264542/114422567-05f13d00-9bd4-11eb-96d7-0fa813dcf066.png)
+
