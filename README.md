@@ -6,7 +6,7 @@ The resource for Image data used for training the model : https://data.vision.ee
 - python -m venv face_app
 - For activating virtual env 
 - .\face_app\Scripts\activate
-- 
+ 
 - Then run pip install -r requirement.txt
 - Then run python main.py
 - The app will open in http://localhost:8000/
